@@ -1,8 +1,8 @@
-# Orkavi-Big-RSS_337m Dataset
+# Big-RSS_337m Dataset
 
 ## Overview
 
-**Orkavi-Big-RSS_337m** is a production-ready dataset containing 337 million web content records. This is a filtered subset of the full Orkavi-Big-RSS_1.1b dataset, designed for enterprise applications requiring structured web content intelligence.
+**Big-RSS_337m** is a production-ready dataset containing 337 million web content records. This is a filtered subset of the full Big-RSS_1.1b dataset, designed for enterprise applications requiring structured web content intelligence.
 
 ## Dataset Specifications
 
@@ -42,17 +42,17 @@
 
 ### BibTeX
 ```bibtex
-@dataset{orkavi_big_rss_337m_odin_glynn,
+@dataset{big_rss_337m_odin_glynn,
   author       = {Glynn-Martin, Odin},
-  title        = {Orkavi-Big-RSS\_337m: Open-Web RSS Feed Dataset},
+  title        = {Big-RSS\_337m: Open-Web RSS Feed Dataset},
   year         = {2025},
   publisher    = {Hugging Face, GitHub, Kaggle},
-  url          = {https://huggingface.co/datasets/odinglynn/Orkavi-Big-RSS_337m, https://github.com/odinglyn0/Orkavi-Big-RSS_337m, https://www.kaggle.com/datasets/odinglynnmartin/orkavi-big-rss-337m}
+  url          = {https://huggingface.co/datasets/odinglynn/Big-RSS_337m, https://github.com/odinglyn0/Big-RSS_337m, https://www.kaggle.com/datasets/odinglynnmartin/big-rss-337m}
 }
 ```
 
 ### APA
-Glynn-Martin, O. (2025). *Orkavi-Big-RSS_337m: Open-Web RSS Feed Dataset*. Hugging Face, GitHub, Kaggle.
+Glynn-Martin, O. (2025). *Big-RSS_337m: Open-Web RSS Feed Dataset*. Hugging Face, GitHub, Kaggle.
 
 ## Contact
 
