@@ -46,13 +46,13 @@
   author       = {Glynn-Martin, Odin},
   title        = {Big-RSS\_337m: Open-Web RSS Feed Dataset},
   year         = {2025},
-  publisher    = {Hugging Face, GitHub, Kaggle},
-  url          = {https://huggingface.co/datasets/odinglynn/Big-RSS_337m, https://github.com/odinglyn0/Big-RSS_337m, https://www.kaggle.com/datasets/odinglynnmartin/big-rss-337m}
+  publisher    = {GitHub},
+  url          = {https://huggingface.co/datasets/odinglynn/Big-RSS_337m}
 }
 ```
 
 ### APA
-Glynn-Martin, O. (2025). *Big-RSS_337m: Open-Web RSS Feed Dataset*. Hugging Face, GitHub, Kaggle.
+Glynn-Martin, O. (2025). *Big-RSS_337m: Open-Web RSS Feed Dataset*. GitHub.
 
 ## Contact
 
